@@ -1,0 +1,68 @@
+<!--
+    Filename: products.html
+    Authors: Ian Swartz, Jacob Karasow
+    Creation Date: 2025-10-21
+    Last Edit Date: 2025-11-18
+    Class: CMSC 421 Web Development
+    Description: individual product page
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Details</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/index.css" />
+    <link rel="stylesheet" href="css/products.css" />
+  </head>
+
+  <body>
+    <!-- NAVBAR -->
+    <div id="navbar-container"></div>
+
+    <main id="productPage">
+      <h1 id="productDetailsTitle">Product Details</h1>
+
+      <!-- No Product Selected -->
+      <div id="noProductMessage" class="hidden no-product-box">
+        <h2>No Product Selected</h2>
+        <p>Please choose a product to view its details.</p>
+      </div>
+
+      <!-- PRODUCT DETAILS -->
+      <div id="productGrid" class="hidden">
+        <div id="productImage"></div>
+
+        <div id="productInfo">
+          <div id="productTitle"></div>
+          <div id="productPrice"></div>
+          <div id="productDescription"></div>
+
+          <div class="product-meta">
+            <p id="productStock"></p>
+            <p id="productCategory"></p>
+          </div>
+
+          <button id="addToCart" class="add-btn">Add to Cart</button>
+        </div>
+      </div>
+
+      <!-- Recommended -->
+      <section id="recommendedSection" class="hidden recommended-section">
+        <h2>You May Like</h2>
+        <div id="recommendedGrid" class="product-grid"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Deals N' Discounts — All Rights Reserved</p>
+    </footer>
+
+    <!-- JS -->
+    <script src="js/script.js"></script>
+    <script src="js/products.js"></script>
+  </body>
+</html>

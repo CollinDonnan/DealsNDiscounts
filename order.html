@@ -1,0 +1,56 @@
+<!-- Worked on by: Tanner, -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Cart</title>
+    <link rel="stylesheet" href="css/order.css" />
+  </head>
+  <body>
+    <div id="navbar-container"></div>
+    <div id="wrapper">
+      <h1 id="summary">Order Summary:</h1>
+      <button id="clear-cart">Clear Cart</button>
+      <div id="empty-cart" hidden>
+        <i class="fa-solid fa-cart-shopping fa-10x"> </i>
+        <p>Cart is empty</p>
+      </div>
+      <div id="order-confirmed" hidden>
+        <i class="fa-solid fa-thumbs-up fa-10x"></i>
+        <p>Your order has been confirmed</p>
+      </div>
+      <div id="order-list">
+        <!-- an example of one item
+        <div class = "item"> 
+          <div class = "product">
+            <img src = current-image height="200" width="150" alt="current-image-name">
+            <div class="product-info">
+              <h3> TITLE </h3>
+              <h4> PRICE $<span id="price"> 0.0 </span></h4>
+              <button id="remove">remove item</button>
+            </div>
+          </div>
+          <div class="increase-decrease-amount"> 
+            <div id="increment"> 
+              <i class="fa-solid fa-square-caret-up"></i>
+            </div>
+            <span id="amount"> 1 </span>
+            <div id="decrement">
+              <i class="fa-solid fa-square-caret-down"></i>
+            </div>       
+          </div>
+        </div>-->
+      </div>
+      <div id="total-value">
+        TOTAL:
+        <span> $<span id="total">0.0</span></span>
+      </div>
+      <button id="confirm">Confirm Order</button>
+      <footer id="foot">Copyright &copy 2025 Deals N' Discounts</footer>
+    </div>
+    <script src="js/script.js"></script>
+    <script src="js/order.js"></script>
+  </body>
+</html>

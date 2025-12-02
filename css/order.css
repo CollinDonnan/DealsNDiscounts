@@ -1,0 +1,133 @@
+/* Worked on by: Tanner */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f6f7f8;
+  color: #222;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+#wrapper {
+  text-align: center;
+  margin: 45px 10% 0px 10%;
+  border: 5px solid #37475a;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #ff9900;
+}
+
+#clear-cart {
+  position: relative;
+  float: right;
+  bottom: -20px;
+  left: -20px;
+  background-color: white;
+  border: 2px solid #ff9900;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: bold;
+}
+
+#clear-cart:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+#order-list {
+  margin: 20px auto;
+}
+
+.item {
+  margin-left: 120px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 225px;
+}
+
+.product {
+  padding: 20px;
+}
+
+.product-info {
+  float: right;
+  position: relative;
+  bottom: -54px;
+  margin-left: 20px;
+  width: 135px;
+}
+
+h3 {
+  position: relative;
+  top: -20px;
+}
+
+h4 {
+  padding-bottom: 11px;
+}
+
+.increase-decrease-amount {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+#increment:hover,
+#decrement:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+#total,
+#total-value {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+#remove {
+  font-size: 12px;
+  text-decoration: underline;
+}
+
+#confirm {
+  margin-top: 10px;
+  background-color: white;
+  border: 2px solid #ff9900;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+#confirm:hover,
+#remove:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+#foot {
+  margin-top: 15px;
+  background-color: #37475a;
+}
+
+#empty-cart,
+#order-confirmed {
+  margin-top: 50px;
+  color: #37475a;
+}
+
+#empty-cart > p,
+#order-confirmed > p {
+  margin-top: 15px;
+  font-size: x-large;
+  font-weight: bold;
+  color: #ff9900;
+}

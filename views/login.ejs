@@ -1,0 +1,86 @@
+<!--
+    Authors: Tanner Ness, John Hershey, Collin Donnan
+    Creation Date: 2025-10-21
+    Last Edit Date: 2025-12-2
+    Class: CMSC 421 Web Development
+    Description: login webpage
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>HTML + CSS</title>
+    <link rel="stylesheet" href="/css/login.css" />
+  </head>
+  <body>
+    <div id="navbar-container"></div>
+    <div id="wrapper">
+      <div>
+        <!-- to revise then, might want account info here if logged in-->
+        <div style="text-align: center">
+          <div id="txt">Login to access our wonderful deals!</div>
+          <div id="signupform">
+            <form action="/register" method="post">
+              <label for="fname"> First Name:</label> <br />
+              <input type="text" id="fname" required /> <br />
+              <label for="lname"> Last Name:</label> <br />
+              <input type="text" id="lname" required /> <br />
+              <label for="e-mail"> E-mail:</label> <br />
+              <input type="email" id="e-mail" name="email" required /><br />
+              <label for="pwrd"> Enter a password:</label><br />
+              <input type="password" id="pwrd" name="pwrd" required /><br />
+              <label for="rep-pwrd"> Re-enter password:</label><br />
+              <input
+                type="password"
+                id="rep-pwrd"
+                name="repwrd"
+                required
+              /><br />
+              <input type="submit" value="Sign Up" id="signup" />
+            </form>
+            <div>
+              <button id="signupbutton" onClick="signUpSwitch()">
+                back to login
+              </button>
+            </div>
+          </div>
+          <div id="loginform">
+            <% if (message && message.length > 0) { %>
+            <p style="color: red"><%= message %></p>
+            <% } %>
+            <form action="/login" method="post">
+              <label for="e-mail"> E-mail:</label> <br />
+              <input
+                type="email"
+                id="username"
+                name="username"
+                required
+              /><br />
+              <label for="pwrd"> Enter password:</label><br />
+              <input
+                type="password"
+                id="password"
+                name="password"
+                required
+              /><br />
+              <input type="submit" value="Log In" id="login" />
+            </form>
+            <div>
+              <br />
+              <p>Don't have an account? Sign Up here</p>
+              <button id="signupbutton" onClick="signUpSwitch()">
+                sign up
+              </button>
+            </div>
+          </div>
+          <div id="accountdata">name:</div>
+        </div>
+      </div>
+      <footer id="foot">Copyright &copy 2025 Deals N' Discounts</footer>
+    </div>
+    <script src="/js/script.js"></script>
+    <script src="/js/login.js"></script>
+  </body>
+</html>

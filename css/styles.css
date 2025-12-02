@@ -1,0 +1,205 @@
+/*
+* Filename: styles.css
+* Authors: Collin Donnan, Tanner Ness, Ian Swartz, John Hershey, Jacob Karassow
+* Creation Date: 2025-10-21
+* Last Edit Date: 2025-12-02
+* Class: CMSC 421 Web Development
+* Description: contains html component style rules present on all pages of site
+*/
+
+html,
+body {
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f6f7f8;
+  color: #222;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  max-width: 2048px;
+  min-width: 576px;
+}
+
+#nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #232f3e;
+  color: white;
+  padding: 10px 10px;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+#nav.scrolled {
+  background-color: #1a242f;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.nav-left h1 {
+  color: #ff9900;
+  font-size: 1.8rem;
+}
+
+.logo {
+  width: 120px;
+  height: 110px;
+  border-radius: 50%;
+  border: 3px solid #ff9900;
+  object-fit: cover;
+  object-position: center;
+  padding-left: 5px;
+  padding-top: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 0 12px rgba(255, 153, 0, 0.4);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.logo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 16px rgba(255, 153, 0, 0.6);
+}
+
+.nav-center {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 6px;
+  transition: background 0.25s ease, color 0.25s ease;
+}
+.nav-links li a:hover,
+.nav-links li a.active {
+  background-color: #37475a;
+  color: #ff9900;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+#searchBar {
+  padding: 7px 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+}
+#searchBtn {
+  background-color: #ff9900;
+  color: white;
+  border: none;
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+#searchBtn:hover {
+  background-color: #f08000;
+}
+/*
+header {
+  background-color: white;
+  /*background-position: right;
+  background-repeat: no-repeat;*#/
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 25px;
+  height: 200px;
+}*/
+footer {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 75%;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+}
+nav {
+  text-align: center;
+  padding: 15px;
+  /*background-color: white;
+  /*background-position: right;
+  background-repeat: no-repeat;*#/
+  font-size: 20px;
+  font-weight: bold;
+  height: 200px;*/
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+}
+h1 {
+  size: 20px;
+  display: inline;
+  text-decoration: underline;
+}
+#account {
+  display: inline-block;
+  float: left;
+  text-decoration: none;
+  font-size: 20px;
+}
+#title {
+}
+
+#cart-logo {
+  float: right;
+  color: black;
+  position: relative;
+}
+#itemcount {
+  font-size: 15px;
+  position: absolute;
+  color: red;
+  left: 25px;
+  bottom: 7px;
+  z-index: 1;
+}
+#cart-logo:hover {
+  font-size: 40px;
+}
+h3 {
+  display: inline;
+}
+.filter {
+  float: left;
+}
+.top-bar {
+  text-align: center;
+  padding: 5px;
+  border: 2px solid black;
+}
+/* remove this if we're doing a cart page*/
+#cartoverlay {
+  width: 0%;
+  color: lightgray;
+  z-index: -1;
+}
+
+#showcart,
+hidecart {
+  width: 30%;
+  float: right;
+  z-index: -2;
+  position: relative;
+}
+#hidecart {
+  width: 0%;
+}

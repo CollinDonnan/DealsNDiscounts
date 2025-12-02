@@ -1,0 +1,312 @@
+/*
+ * Filename: products.css
+ * Authors: Ian Swartz
+ * Creation Date: 2025-10-27
+ * Last Edit Date: 2025-11-13
+ * Class: CMSC 421 Web Development
+ * Description: contains css information for the product details page, mainly form design
+ */
+
+/* ================================
+   products.css
+   Match visual style to index.css (home)
+   ================================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f6f7f8;
+  color: #222;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+/* ===== Navigation (matches home) ===== */
+nav.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #232f3e;
+  color: white;
+  padding: 10px 25px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav.top-bar a {
+  color: white;
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 6px;
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+nav.top-bar a:hover {
+  background-color: #37475a;
+  color: #ff9900;
+}
+
+/* ===== Product details container (card) ===== */
+#productPage {
+  max-width: 900px;
+  margin: 44px auto;
+  background: white;
+  border-radius: 10px;
+  padding: 28px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+#productDetailsTitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #232f3e;
+  margin-bottom: 22px;
+  margin-left: 12px;
+  margin-top: 8px;
+}
+
+#productGrid {
+  display: flex;
+  align-items: flex-start;
+  gap: 36px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+/* ===== Image styling (smaller, fixed) ===== */
+#productImage {
+  flex: 0 0 auto;
+  width: 200px;
+}
+
+#productImage img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  display: block;
+  object-fit: contain;
+}
+
+/* ===== Product info column (left aligned) ===== */
+#productInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1 1 420px;
+  min-width: 260px;
+  max-width: 520px;
+}
+
+/* Title / Price / Description */
+#productTitle h2 {
+  font-size: 1.6rem;
+  color: #232f3e;
+  margin-bottom: 8px;
+  line-height: 1.15;
+}
+
+#productPrice {
+  color: #b12704;
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+#productDescription {
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+
+.hidden {
+  display: none !important;
+}
+
+#recommendedSection {
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 2px solid #e0e0e0;
+}
+
+#noProductMessage {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+#noProductMessage h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+#noProductMessage p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+#productStock,
+#productCategory {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 6px 0;
+}
+
+.product-meta {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+/* ===== Add to cart (match home colors) ===== */
+#orderButton {
+  margin-top: 16px;
+}
+
+#addToCart {
+  background-color: #ff9900;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 700;
+  transition: background 0.22s ease, transform 0.12s ease;
+}
+
+#addToCart:hover {
+  background-color: #f08000;
+  transform: translateY(-2px);
+}
+
+#recommendedGrid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.product-card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-card h4 {
+  margin: 0.5rem 0;
+  font-size: 1rem;
+}
+
+.product-card h4 a {
+  text-decoration: none;
+  color: #333;
+}
+
+.product-card h4 a:hover {
+  color: #ff9900;
+}
+
+.product-card p {
+  font-weight: bold;
+  margin: 0;
+  color: #b12704;
+}
+
+/* ===== Footer (match home) ===== */
+footer {
+  background-color: #232f3e;
+  color: white;
+  text-align: center;
+  padding: 14px 10px;
+  margin-top: 40px;
+}
+
+/* ===== Responsive adjustments ===== */
+@media (max-width: 880px) {
+  #productPage {
+    padding: 20px;
+    margin: 24px 12px;
+  }
+
+  #productGrid {
+    gap: 20px;
+  }
+
+  #productImage {
+    width: 180px;
+  }
+}
+
+@media (max-width: 600px) {
+  #productGrid {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  #productInfo {
+    align-items: center;
+  }
+
+  #productImage {
+    width: 160px;
+  }
+
+  #productTitle h2 {
+    font-size: 1.4rem;
+  }
+
+  #productPrice {
+    font-size: 1.15rem;
+  }
+}
+
+/* ===== Toast messages ===== */
+#toast-container {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+  z-index: 1000;
+}
+
+.toast-message {
+  background-color: #ff9900;
+  color: #fff;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-size: 14px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  opacity: 1;
+  transition: opacity 0.5s ease, transform 0.3s ease;
+  white-space: nowrap;
+}
+
+.toast-message.fade-out {
+  opacity: 0;
+  transform: translateY(-10px);
+}

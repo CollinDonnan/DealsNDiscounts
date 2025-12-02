@@ -1,0 +1,2637 @@
+{
+  "items": [
+    {
+      "sys": {
+        "id": "1"
+      },
+      "fields": {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 46.33,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product1.jpg"
+            }
+          }
+        },
+        "description": "Harry Potter and the Sorcerer's Stone is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 22,
+        "rating": 4.4,
+        "brand": "Penguin Random House",
+        "details": {
+          "author": "Harry Author",
+          "language": "English",
+          "pages": 240,
+          "isbn": "978-1-4668136"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2"
+      },
+      "fields": {
+        "title": "To Kill a Mockingbird",
+        "price": 38.11,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product2.jpg"
+            }
+          }
+        },
+        "description": "To Kill a Mockingbird is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 1,
+        "rating": 4.7,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "To Author",
+          "language": "English",
+          "pages": 656,
+          "isbn": "978-6-6708456"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3"
+      },
+      "fields": {
+        "title": "1984",
+        "price": 18.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product3.jpg"
+            }
+          }
+        },
+        "description": "1984 is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 11,
+        "rating": 4.6,
+        "brand": "MIT Press",
+        "details": {
+          "author": "1984 Author",
+          "language": "English",
+          "pages": 240,
+          "isbn": "978-6-2322047"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4"
+      },
+      "fields": {
+        "title": "The Great Gatsby",
+        "price": 48.93,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product4.jpg"
+            }
+          }
+        },
+        "description": "The Great Gatsby is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 74,
+        "rating": 5.0,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 208,
+          "isbn": "978-1-7377459"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5"
+      },
+      "fields": {
+        "title": "Introduction to Algorithms",
+        "price": 43.6,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product5.jpg"
+            }
+          }
+        },
+        "description": "Introduction to Algorithms is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 155,
+        "rating": 4.5,
+        "brand": "MIT Press",
+        "details": {
+          "author": "Various Authors",
+          "language": "English",
+          "pages": 656,
+          "isbn": "978-3-3741438"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "6"
+      },
+      "fields": {
+        "title": "The Catcher in the Rye",
+        "price": 20.14,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product6.jpg"
+            }
+          }
+        },
+        "description": "The Catcher in the Rye is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 8,
+        "rating": 4.7,
+        "brand": "O'Reilly Media",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 448,
+          "isbn": "978-1-4539704"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "7"
+      },
+      "fields": {
+        "title": "Sapiens: A Brief History of Humankind",
+        "price": 35.08,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product7.jpg"
+            }
+          }
+        },
+        "description": "Sapiens: A Brief History of Humankind is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 35,
+        "rating": 3.9,
+        "brand": "MIT Press",
+        "details": {
+          "author": "Sapiens",
+          "language": "English",
+          "pages": 288,
+          "isbn": "978-4-8187926"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "8"
+      },
+      "fields": {
+        "title": "The Lord of the Rings",
+        "price": 26.68,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product8.jpg"
+            }
+          }
+        },
+        "description": "The Lord of the Rings is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 160,
+        "rating": 3.8,
+        "brand": "O'Reilly Media",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 288,
+          "isbn": "978-1-7455324"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "9"
+      },
+      "fields": {
+        "title": "Pride and Prejudice",
+        "price": 64.01,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product9.jpg"
+            }
+          }
+        },
+        "description": "Pride and Prejudice is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 137,
+        "rating": 4.7,
+        "brand": "Simon & Schuster",
+        "details": {
+          "author": "Pride Author",
+          "language": "English",
+          "pages": 240,
+          "isbn": "978-4-8294150"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "10"
+      },
+      "fields": {
+        "title": "The Hobbit",
+        "price": 7.57,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product10.jpg"
+            }
+          }
+        },
+        "description": "The Hobbit is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 160,
+        "rating": 4.0,
+        "brand": "MIT Press",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 288,
+          "isbn": "978-3-3564217"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "11"
+      },
+      "fields": {
+        "title": "Thinking, Fast and Slow",
+        "price": 15.22,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product11.jpg"
+            }
+          }
+        },
+        "description": "Thinking, Fast and Slow is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 92,
+        "rating": 4.8,
+        "brand": "Simon & Schuster",
+        "details": {
+          "author": "Thinking, Author",
+          "language": "English",
+          "pages": 320,
+          "isbn": "978-0-5041154"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "12"
+      },
+      "fields": {
+        "title": "Clean Code",
+        "price": 53.35,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product12.jpg"
+            }
+          }
+        },
+        "description": "Clean Code is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 121,
+        "rating": 4.9,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "Clean Author",
+          "language": "English",
+          "pages": 448,
+          "isbn": "978-8-8099076"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "13"
+      },
+      "fields": {
+        "title": "The Pragmatic Programmer",
+        "price": 55.93,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product13.jpg"
+            }
+          }
+        },
+        "description": "The Pragmatic Programmer is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 132,
+        "rating": 4.2,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 320,
+          "isbn": "978-1-6672134"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "14"
+      },
+      "fields": {
+        "title": "A Brief History of Time",
+        "price": 33.41,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product14.jpg"
+            }
+          }
+        },
+        "description": "A Brief History of Time is a widely read classic book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 84,
+        "rating": 3.7,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "A Author",
+          "language": "English",
+          "pages": 448,
+          "isbn": "978-7-4594297"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "15"
+      },
+      "fields": {
+        "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+        "price": 42.13,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product15.jpg"
+            }
+          }
+        },
+        "description": "Gödel, Escher, Bach: An Eternal Golden Braid is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 168,
+        "rating": 4.2,
+        "brand": "O'Reilly Media",
+        "details": {
+          "author": "Gödel, Escher, Bach",
+          "language": "English",
+          "pages": 512,
+          "isbn": "978-7-1908841"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "16"
+      },
+      "fields": {
+        "title": "The Lean Startup",
+        "price": 56.07,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product16.jpg"
+            }
+          }
+        },
+        "description": "The Lean Startup is a widely read popular book that explores notable themes and compelling characters.",
+        "category": "Books",
+        "stock": 114,
+        "rating": 3.8,
+        "brand": "HarperCollins",
+        "details": {
+          "author": "The Author",
+          "language": "English",
+          "pages": 448,
+          "isbn": "978-7-5191056"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "17"
+      },
+      "fields": {
+        "title": "The Matrix",
+        "price": 30.77,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product17.jpg"
+            }
+          }
+        },
+        "description": "The Matrix is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 23,
+        "rating": 4.9,
+        "brand": "Universal",
+        "details": {
+          "format": "4K Ultra HD",
+          "runtime": "142 min",
+          "year": 2001,
+          "director": "Quentin Tarantino"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "18"
+      },
+      "fields": {
+        "title": "Inception",
+        "price": 23.49,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product18.jpg"
+            }
+          }
+        },
+        "description": "Inception is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 116,
+        "rating": 4.0,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "Digital",
+          "runtime": "109 min",
+          "year": 1982,
+          "director": "Bong Joon-ho"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "19"
+      },
+      "fields": {
+        "title": "The Godfather",
+        "price": 11.02,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product19.jpg"
+            }
+          }
+        },
+        "description": "The Godfather is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 135,
+        "rating": 3.8,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "Blu-ray",
+          "runtime": "113 min",
+          "year": 1974,
+          "director": "Steven Spielberg"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "20"
+      },
+      "fields": {
+        "title": "Pulp Fiction",
+        "price": 17.18,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product20.jpg"
+            }
+          }
+        },
+        "description": "Pulp Fiction is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 107,
+        "rating": 4.5,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "DVD",
+          "runtime": "123 min",
+          "year": 1983,
+          "director": "Ridley Scott"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "21"
+      },
+      "fields": {
+        "title": "The Shawshank Redemption",
+        "price": 19.53,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product21.jpg"
+            }
+          }
+        },
+        "description": "The Shawshank Redemption is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 117,
+        "rating": 4.5,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "Blu-ray",
+          "runtime": "99 min",
+          "year": 2004,
+          "director": "Denis Villeneuve"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "22"
+      },
+      "fields": {
+        "title": "The Dark Knight",
+        "price": 13.23,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product22.jpg"
+            }
+          }
+        },
+        "description": "The Dark Knight is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 139,
+        "rating": 4.6,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "Blu-ray",
+          "runtime": "175 min",
+          "year": 2022,
+          "director": "Bong Joon-ho"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "23"
+      },
+      "fields": {
+        "title": "Forrest Gump",
+        "price": 11.46,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product23.jpg"
+            }
+          }
+        },
+        "description": "Forrest Gump is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 72,
+        "rating": 4.4,
+        "brand": "Paramount",
+        "details": {
+          "format": "4K Ultra HD",
+          "runtime": "177 min",
+          "year": 2010,
+          "director": "Bong Joon-ho"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "24"
+      },
+      "fields": {
+        "title": "Fight Club",
+        "price": 15.29,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product24.jpg"
+            }
+          }
+        },
+        "description": "Fight Club is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 85,
+        "rating": 4.7,
+        "brand": "Paramount",
+        "details": {
+          "format": "4K Ultra HD",
+          "runtime": "146 min",
+          "year": 2005,
+          "director": "Peter Jackson"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "25"
+      },
+      "fields": {
+        "title": "Interstellar",
+        "price": 12.37,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product25.jpg"
+            }
+          }
+        },
+        "description": "Interstellar is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 141,
+        "rating": 3.8,
+        "brand": "Universal",
+        "details": {
+          "format": "Blu-ray",
+          "runtime": "129 min",
+          "year": 1993,
+          "director": "Christopher Nolan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "26"
+      },
+      "fields": {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "price": 15.54,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product26.jpg"
+            }
+          }
+        },
+        "description": "The Lord of the Rings: The Fellowship of the Ring is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 158,
+        "rating": 4.6,
+        "brand": "Universal",
+        "details": {
+          "format": "4K Ultra HD",
+          "runtime": "112 min",
+          "year": 1996,
+          "director": "Christopher Nolan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "27"
+      },
+      "fields": {
+        "title": "Star Wars: A New Hope",
+        "price": 36.23,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product27.jpg"
+            }
+          }
+        },
+        "description": "Star Wars: A New Hope is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 40,
+        "rating": 4.7,
+        "brand": "Warner Bros.",
+        "details": {
+          "format": "Digital",
+          "runtime": "94 min",
+          "year": 2000,
+          "director": "Denis Villeneuve"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "28"
+      },
+      "fields": {
+        "title": "Back to the Future",
+        "price": 39.91,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product28.jpg"
+            }
+          }
+        },
+        "description": "Back to the Future is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 102,
+        "rating": 4.1,
+        "brand": "Warner Bros.",
+        "details": {
+          "format": "DVD",
+          "runtime": "134 min",
+          "year": 2011,
+          "director": "Peter Jackson"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "29"
+      },
+      "fields": {
+        "title": "The Social Network",
+        "price": 36.74,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product29.jpg"
+            }
+          }
+        },
+        "description": "The Social Network is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 67,
+        "rating": 3.7,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "Digital",
+          "runtime": "134 min",
+          "year": 2016,
+          "director": "Ridley Scott"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "30"
+      },
+      "fields": {
+        "title": "Parasite",
+        "price": 39.87,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product30.jpg"
+            }
+          }
+        },
+        "description": "Parasite is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 133,
+        "rating": 4.9,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "4K Ultra HD",
+          "runtime": "136 min",
+          "year": 1997,
+          "director": "Steven Spielberg"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "31"
+      },
+      "fields": {
+        "title": "Whiplash",
+        "price": 38.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product31.jpg"
+            }
+          }
+        },
+        "description": "Whiplash is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 170,
+        "rating": 4.2,
+        "brand": "20th Century Studios",
+        "details": {
+          "format": "DVD",
+          "runtime": "160 min",
+          "year": 1978,
+          "director": "Denis Villeneuve"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "32"
+      },
+      "fields": {
+        "title": "Mad Max: Fury Road",
+        "price": 39.56,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product32.jpg"
+            }
+          }
+        },
+        "description": "Mad Max: Fury Road is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 0,
+        "rating": 4.0,
+        "brand": "Universal",
+        "details": {
+          "format": "Digital",
+          "runtime": "164 min",
+          "year": 2008,
+          "director": "Ridley Scott"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "33"
+      },
+      "fields": {
+        "title": "The Silence of the Lambs",
+        "price": 21.4,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product33.jpg"
+            }
+          }
+        },
+        "description": "The Silence of the Lambs is a critically acclaimed film known for its strong direction and memorable performances.",
+        "category": "Movies",
+        "stock": 21,
+        "rating": 4.0,
+        "brand": "Sony Pictures",
+        "details": {
+          "format": "DVD",
+          "runtime": "101 min",
+          "year": 2022,
+          "director": "Denis Villeneuve"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "34"
+      },
+      "fields": {
+        "title": "Apple iPhone 14",
+        "price": 468.87,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product34.jpg"
+            }
+          }
+        },
+        "description": "The Apple iPhone 14 offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 18,
+        "rating": 4.2,
+        "brand": "Bose",
+        "details": {
+          "model": "Apple iPhone 14",
+          "warranty": "3 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "35"
+      },
+      "fields": {
+        "title": "Samsung Galaxy S23",
+        "price": 1225.11,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product35.jpg"
+            }
+          }
+        },
+        "description": "The Samsung Galaxy S23 offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 108,
+        "rating": 3.9,
+        "brand": "Canon",
+        "details": {
+          "model": "Samsung Galaxy S23",
+          "warranty": "1 year(s)",
+          "connectivity": "Wired"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "36"
+      },
+      "fields": {
+        "title": "Apple AirPods Pro (2nd Generation)",
+        "price": 974.06,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product36.jpg"
+            }
+          }
+        },
+        "description": "The Apple AirPods Pro (2nd Generation) offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 193,
+        "rating": 4.8,
+        "brand": "DJI",
+        "details": {
+          "model": "Apple AirPods Pro (2nd Generation)",
+          "warranty": "3 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "37"
+      },
+      "fields": {
+        "title": "Sony WH-1000XM5 Headphones",
+        "price": 1052.8,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product37.jpg"
+            }
+          }
+        },
+        "description": "The Sony WH-1000XM5 Headphones offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 133,
+        "rating": 4.3,
+        "brand": "Bose",
+        "details": {
+          "model": "Sony WH-1000XM5 Headphones",
+          "warranty": "2 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "38"
+      },
+      "fields": {
+        "title": "Kindle Paperwhite",
+        "price": 540.74,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product38.jpg"
+            }
+          }
+        },
+        "description": "The Kindle Paperwhite offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 177,
+        "rating": 3.8,
+        "brand": "Bose",
+        "details": {
+          "model": "Kindle Paperwhite",
+          "warranty": "1 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "39"
+      },
+      "fields": {
+        "title": "Nintendo Switch OLED",
+        "price": 887.54,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product39.jpg"
+            }
+          }
+        },
+        "description": "The Nintendo Switch OLED offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 178,
+        "rating": 3.6,
+        "brand": "DJI",
+        "details": {
+          "model": "Nintendo Switch OLED",
+          "warranty": "2 year(s)",
+          "connectivity": "Bluetooth"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "40"
+      },
+      "fields": {
+        "title": "Apple MacBook Air (M2)",
+        "price": 864.4,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product40.jpg"
+            }
+          }
+        },
+        "description": "The Apple MacBook Air (M2) offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 154,
+        "rating": 4.9,
+        "brand": "Canon",
+        "details": {
+          "model": "Apple MacBook Air (M2)",
+          "warranty": "1 year(s)",
+          "connectivity": "Bluetooth, Wi‑Fi"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "41"
+      },
+      "fields": {
+        "title": "Dell XPS 13",
+        "price": 703.16,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product41.jpg"
+            }
+          }
+        },
+        "description": "The Dell XPS 13 offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 32,
+        "rating": 5.0,
+        "brand": "Apple",
+        "details": {
+          "model": "Dell XPS 13",
+          "warranty": "2 year(s)",
+          "connectivity": "Wired"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "42"
+      },
+      "fields": {
+        "title": "Samsung QLED 55\" TV",
+        "price": 1289.09,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product42.jpg"
+            }
+          }
+        },
+        "description": "The Samsung QLED 55\" TV offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 54,
+        "rating": 4.2,
+        "brand": "Logitech",
+        "details": {
+          "model": "Samsung QLED 55\" TV",
+          "warranty": "2 year(s)",
+          "connectivity": "Bluetooth, Wi‑Fi"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "43"
+      },
+      "fields": {
+        "title": "GoPro HERO11",
+        "price": 605.15,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product43.jpg"
+            }
+          }
+        },
+        "description": "The GoPro HERO11 offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 89,
+        "rating": 3.9,
+        "brand": "Samsung",
+        "details": {
+          "model": "GoPro HERO11",
+          "warranty": "3 year(s)",
+          "connectivity": "Bluetooth"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "44"
+      },
+      "fields": {
+        "title": "Bose QuietComfort Earbuds II",
+        "price": 450.36,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product44.jpg"
+            }
+          }
+        },
+        "description": "The Bose QuietComfort Earbuds II offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 144,
+        "rating": 4.9,
+        "brand": "Canon",
+        "details": {
+          "model": "Bose QuietComfort Earbuds II",
+          "warranty": "3 year(s)",
+          "connectivity": "Bluetooth, Wi‑Fi"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "45"
+      },
+      "fields": {
+        "title": "Fitbit Charge 5",
+        "price": 1398.96,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product45.jpg"
+            }
+          }
+        },
+        "description": "The Fitbit Charge 5 offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 27,
+        "rating": 4.4,
+        "brand": "Anker",
+        "details": {
+          "model": "Fitbit Charge 5",
+          "warranty": "3 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "46"
+      },
+      "fields": {
+        "title": "Roku Streaming Stick 4K",
+        "price": 195.44,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product46.jpg"
+            }
+          }
+        },
+        "description": "The Roku Streaming Stick 4K offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 175,
+        "rating": 4.4,
+        "brand": "Samsung",
+        "details": {
+          "model": "Roku Streaming Stick 4K",
+          "warranty": "3 year(s)",
+          "connectivity": "Bluetooth"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "47"
+      },
+      "fields": {
+        "title": "Anker PowerCore 20000 Power Bank",
+        "price": 839.57,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product47.jpg"
+            }
+          }
+        },
+        "description": "The Anker PowerCore 20000 Power Bank offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 27,
+        "rating": 4.2,
+        "brand": "Logitech",
+        "details": {
+          "model": "Anker PowerCore 20000 Power Bank",
+          "warranty": "3 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "48"
+      },
+      "fields": {
+        "title": "Logitech MX Master 3 Mouse",
+        "price": 1526.27,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product48.jpg"
+            }
+          }
+        },
+        "description": "The Logitech MX Master 3 Mouse offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 123,
+        "rating": 4.3,
+        "brand": "Anker",
+        "details": {
+          "model": "Logitech MX Master 3 Mouse",
+          "warranty": "2 year(s)",
+          "connectivity": "Wi-Fi"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "49"
+      },
+      "fields": {
+        "title": "Canon EOS R10 Camera",
+        "price": 1757.42,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product49.jpg"
+            }
+          }
+        },
+        "description": "The Canon EOS R10 Camera offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 7,
+        "rating": 4.3,
+        "brand": "Logitech",
+        "details": {
+          "model": "Canon EOS R10 Camera",
+          "warranty": "1 year(s)",
+          "connectivity": "USB-C"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "50"
+      },
+      "fields": {
+        "title": "DJI Mini 4 Pro",
+        "price": 631.6,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product50.jpg"
+            }
+          }
+        },
+        "description": "The DJI Mini 4 Pro offers modern features and reliable performance for everyday use and advanced tasks.",
+        "category": "Electronics",
+        "stock": 48,
+        "rating": 3.7,
+        "brand": "DJI",
+        "details": {
+          "model": "DJI Mini 4 Pro",
+          "warranty": "2 year(s)",
+          "connectivity": "Wired"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "51"
+      },
+      "fields": {
+        "title": "The Witcher 3: Wild Hunt",
+        "price": 41.42,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product51.jpg"
+            }
+          }
+        },
+        "description": "The Witcher 3: Wild Hunt delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 177,
+        "rating": 3.9,
+        "brand": "Sony Interactive",
+        "details": {
+          "platform": "Xbox",
+          "genre": "Strategy",
+          "releaseYear": 2017
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "52"
+      },
+      "fields": {
+        "title": "Elden Ring",
+        "price": 30.96,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product52.jpg"
+            }
+          }
+        },
+        "description": "Elden Ring delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 30,
+        "rating": 4.6,
+        "brand": "Nintendo",
+        "details": {
+          "platform": "PC",
+          "genre": "Simulation",
+          "releaseYear": 2017
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "53"
+      },
+      "fields": {
+        "title": "God of War (2018)",
+        "price": 66.17,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product53.jpg"
+            }
+          }
+        },
+        "description": "God of War (2018) delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 152,
+        "rating": 4.0,
+        "brand": "CD Projekt",
+        "details": {
+          "platform": "PlayStation",
+          "genre": "Adventure",
+          "releaseYear": 2007
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "54"
+      },
+      "fields": {
+        "title": "Red Dead Redemption 2",
+        "price": 17.38,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product54.jpg"
+            }
+          }
+        },
+        "description": "Red Dead Redemption 2 delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 32,
+        "rating": 4.5,
+        "brand": "Rockstar Games",
+        "details": {
+          "platform": "PC",
+          "genre": "RPG",
+          "releaseYear": 2018
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "55"
+      },
+      "fields": {
+        "title": "The Last of Us Part II",
+        "price": 71.11,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product55.jpg"
+            }
+          }
+        },
+        "description": "The Last of Us Part II delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 16,
+        "rating": 4.2,
+        "brand": "CD Projekt",
+        "details": {
+          "platform": "Multi-platform",
+          "genre": "Simulation",
+          "releaseYear": 2021
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "56"
+      },
+      "fields": {
+        "title": "Minecraft",
+        "price": 33.03,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product56.jpg"
+            }
+          }
+        },
+        "description": "Minecraft delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 155,
+        "rating": 4.4,
+        "brand": "Sony Interactive",
+        "details": {
+          "platform": "PlayStation",
+          "genre": "Platformer",
+          "releaseYear": 2012
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "57"
+      },
+      "fields": {
+        "title": "Fortnite",
+        "price": 82.41,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product57.jpg"
+            }
+          }
+        },
+        "description": "Fortnite delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 189,
+        "rating": 3.7,
+        "brand": "FromSoftware",
+        "details": {
+          "platform": "PlayStation",
+          "genre": "Adventure",
+          "releaseYear": 2021
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "58"
+      },
+      "fields": {
+        "title": "Cyberpunk 2077",
+        "price": 20.31,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product58.jpg"
+            }
+          }
+        },
+        "description": "Cyberpunk 2077 delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 8,
+        "rating": 3.9,
+        "brand": "Nintendo",
+        "details": {
+          "platform": "Switch",
+          "genre": "RPG",
+          "releaseYear": 2021
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "59"
+      },
+      "fields": {
+        "title": "Hollow Knight",
+        "price": 46.7,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product59.jpg"
+            }
+          }
+        },
+        "description": "Hollow Knight delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 57,
+        "rating": 4.5,
+        "brand": "Nintendo",
+        "details": {
+          "platform": "PlayStation",
+          "genre": "RPG",
+          "releaseYear": 2001
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "60"
+      },
+      "fields": {
+        "title": "Celeste",
+        "price": 52.37,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product60.jpg"
+            }
+          }
+        },
+        "description": "Celeste delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 179,
+        "rating": 4.2,
+        "brand": "Nintendo",
+        "details": {
+          "platform": "Multi-platform",
+          "genre": "Platformer",
+          "releaseYear": 2015
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "61"
+      },
+      "fields": {
+        "title": "Super Mario Odyssey",
+        "price": 57.83,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product61.jpg"
+            }
+          }
+        },
+        "description": "Super Mario Odyssey delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 172,
+        "rating": 4.8,
+        "brand": "Sony Interactive",
+        "details": {
+          "platform": "Multi-platform",
+          "genre": "RPG",
+          "releaseYear": 2021
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "62"
+      },
+      "fields": {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "price": 20.62,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product62.jpg"
+            }
+          }
+        },
+        "description": "The Legend of Zelda: Breath of the Wild delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 149,
+        "rating": 4.2,
+        "brand": "Rockstar Games",
+        "details": {
+          "platform": "PC",
+          "genre": "Strategy",
+          "releaseYear": 2011
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "63"
+      },
+      "fields": {
+        "title": "Halo Infinite",
+        "price": 21.59,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product63.jpg"
+            }
+          }
+        },
+        "description": "Halo Infinite delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 102,
+        "rating": 4.7,
+        "brand": "Sony Interactive",
+        "details": {
+          "platform": "PC",
+          "genre": "Strategy",
+          "releaseYear": 2002
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "64"
+      },
+      "fields": {
+        "title": "Apex Legends",
+        "price": 39.69,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product64.jpg"
+            }
+          }
+        },
+        "description": "Apex Legends delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 138,
+        "rating": 4.2,
+        "brand": "CD Projekt",
+        "details": {
+          "platform": "PlayStation",
+          "genre": "Platformer",
+          "releaseYear": 2011
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "65"
+      },
+      "fields": {
+        "title": "Overwatch 2",
+        "price": 12.26,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product65.jpg"
+            }
+          }
+        },
+        "description": "Overwatch 2 delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 178,
+        "rating": 4.3,
+        "brand": "CD Projekt",
+        "details": {
+          "platform": "Multi-platform",
+          "genre": "Action",
+          "releaseYear": 2022
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "66"
+      },
+      "fields": {
+        "title": "Persona 5 Royal",
+        "price": 15.76,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product66.jpg"
+            }
+          }
+        },
+        "description": "Persona 5 Royal delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 30,
+        "rating": 4.5,
+        "brand": "FromSoftware",
+        "details": {
+          "platform": "Switch",
+          "genre": "Simulation",
+          "releaseYear": 2009
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "67"
+      },
+      "fields": {
+        "title": "Stardew Valley",
+        "price": 77.3,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product67.jpg"
+            }
+          }
+        },
+        "description": "Stardew Valley delivers an engaging gameplay experience with rich world-building and gameplay mechanics.",
+        "category": "Video Games",
+        "stock": 153,
+        "rating": 4.3,
+        "brand": "FromSoftware",
+        "details": {
+          "platform": "PC",
+          "genre": "Adventure",
+          "releaseYear": 2013
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "68"
+      },
+      "fields": {
+        "title": "LEGO Star Wars Millennium Falcon",
+        "price": 229.04,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product68.jpg"
+            }
+          }
+        },
+        "description": "LEGO Star Wars Millennium Falcon is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 168,
+        "rating": 4.3,
+        "brand": "Hasbro",
+        "details": {
+          "ageRange": "10+",
+          "pieceCount": 750,
+          "material": "Metal"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "69"
+      },
+      "fields": {
+        "title": "Barbie Dreamhouse",
+        "price": 107.36,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product69.jpg"
+            }
+          }
+        },
+        "description": "Barbie Dreamhouse is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 146,
+        "rating": 4.1,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "3+",
+          "pieceCount": 120,
+          "material": "Metal"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "70"
+      },
+      "fields": {
+        "title": "Hot Wheels Track Set",
+        "price": 253.01,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product70.jpg"
+            }
+          }
+        },
+        "description": "Hot Wheels Track Set is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 9,
+        "rating": 3.8,
+        "brand": "Playmobil",
+        "details": {
+          "ageRange": "8+",
+          "pieceCount": 2000,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "71"
+      },
+      "fields": {
+        "title": "NERF Elite Disruptor Blaster",
+        "price": 232.01,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product71.jpg"
+            }
+          }
+        },
+        "description": "NERF Elite Disruptor Blaster is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 39,
+        "rating": 3.7,
+        "brand": "Mattel",
+        "details": {
+          "ageRange": "8+",
+          "pieceCount": 750,
+          "material": "Metal"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "72"
+      },
+      "fields": {
+        "title": "Funko Pop! Iron Man",
+        "price": 126.43,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product72.jpg"
+            }
+          }
+        },
+        "description": "Funko Pop! Iron Man is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 194,
+        "rating": 4.3,
+        "brand": "Playmobil",
+        "details": {
+          "ageRange": "3+",
+          "pieceCount": 750,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "73"
+      },
+      "fields": {
+        "title": "Hasbro Monopoly Classic",
+        "price": 34.51,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product73.jpg"
+            }
+          }
+        },
+        "description": "Hasbro Monopoly Classic is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 180,
+        "rating": 4.8,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "6+",
+          "pieceCount": 1351,
+          "material": "Fabric"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "74"
+      },
+      "fields": {
+        "title": "Rubik's Cube 3x3",
+        "price": 119.37,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product74.jpg"
+            }
+          }
+        },
+        "description": "Rubik's Cube 3x3 is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 144,
+        "rating": 4.6,
+        "brand": "Hasbro",
+        "details": {
+          "ageRange": "6+",
+          "pieceCount": 32,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "75"
+      },
+      "fields": {
+        "title": "Fisher-Price Laugh & Learn",
+        "price": 187.56,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product75.jpg"
+            }
+          }
+        },
+        "description": "Fisher-Price Laugh & Learn is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 117,
+        "rating": 4.0,
+        "brand": "LEGO",
+        "details": {
+          "ageRange": "10+",
+          "pieceCount": 120,
+          "material": "Wood"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "76"
+      },
+      "fields": {
+        "title": "Playmobil Pirate Ship",
+        "price": 292.9,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product76.jpg"
+            }
+          }
+        },
+        "description": "Playmobil Pirate Ship is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 77,
+        "rating": 3.9,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "10+",
+          "pieceCount": 10,
+          "material": "Wood"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "77"
+      },
+      "fields": {
+        "title": "Melissa & Doug Wooden Train Set",
+        "price": 11.46,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product77.jpg"
+            }
+          }
+        },
+        "description": "Melissa & Doug Wooden Train Set is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 2,
+        "rating": 4.4,
+        "brand": "Melissa & Doug",
+        "details": {
+          "ageRange": "3+",
+          "pieceCount": 750,
+          "material": "Metal"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "78"
+      },
+      "fields": {
+        "title": "Magformers Magnetic Tiles",
+        "price": 228.9,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product78.jpg"
+            }
+          }
+        },
+        "description": "Magformers Magnetic Tiles is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 64,
+        "rating": 4.5,
+        "brand": "Melissa & Doug",
+        "details": {
+          "ageRange": "6+",
+          "pieceCount": 1351,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "79"
+      },
+      "fields": {
+        "title": "Marvel Legends Spider-Man Action Figure",
+        "price": 162.34,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product79.jpg"
+            }
+          }
+        },
+        "description": "Marvel Legends Spider-Man Action Figure is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 75,
+        "rating": 4.1,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "6+",
+          "pieceCount": 32,
+          "material": "Wood"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "80"
+      },
+      "fields": {
+        "title": "Tonka Steel Classic Dump Truck",
+        "price": 96.37,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product80.jpg"
+            }
+          }
+        },
+        "description": "Tonka Steel Classic Dump Truck is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 123,
+        "rating": 5.0,
+        "brand": "Mattel",
+        "details": {
+          "ageRange": "8+",
+          "pieceCount": 2000,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "81"
+      },
+      "fields": {
+        "title": "Osmo Genius Starter Kit",
+        "price": 204.38,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product81.jpg"
+            }
+          }
+        },
+        "description": "Osmo Genius Starter Kit is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 142,
+        "rating": 4.1,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "3+",
+          "pieceCount": 120,
+          "material": "Plastic"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "82"
+      },
+      "fields": {
+        "title": "Sylvanian Families Cottage",
+        "price": 229.56,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product82.jpg"
+            }
+          }
+        },
+        "description": "Sylvanian Families Cottage is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 59,
+        "rating": 4.3,
+        "brand": "Playmobil",
+        "details": {
+          "ageRange": "12+",
+          "pieceCount": 120,
+          "material": "Wood"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "83"
+      },
+      "fields": {
+        "title": "Paw Patrol Lookout Tower",
+        "price": 179.1,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product83.jpg"
+            }
+          }
+        },
+        "description": "Paw Patrol Lookout Tower is a bestselling toy that encourages creativity and hours of play for kids and collectors alike.",
+        "category": "Toys",
+        "stock": 9,
+        "rating": 4.0,
+        "brand": "Funko",
+        "details": {
+          "ageRange": "3+",
+          "pieceCount": 10,
+          "material": "Wood"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "84"
+      },
+      "fields": {
+        "title": "Instant Pot Duo 7-in-1",
+        "price": 760.94,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product84.jpg"
+            }
+          }
+        },
+        "description": "Instant Pot Duo 7-in-1 is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 190,
+        "rating": 4.6,
+        "brand": "Dyson",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "8.42 kg",
+          "madeIn": "Vietnam"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "85"
+      },
+      "fields": {
+        "title": "Yeti Rambler 20 oz Tumbler",
+        "price": 847.58,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product85.jpg"
+            }
+          }
+        },
+        "description": "Yeti Rambler 20 oz Tumbler is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 25,
+        "rating": 5.0,
+        "brand": "Keurig",
+        "details": {
+          "material": "Fabric",
+          "weight": "9.07 kg",
+          "madeIn": "Germany"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "86"
+      },
+      "fields": {
+        "title": "Keurig K-Classic Coffee Maker",
+        "price": 78.55,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product86.jpg"
+            }
+          }
+        },
+        "description": "Keurig K-Classic Coffee Maker is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 163,
+        "rating": 4.4,
+        "brand": "Instant Brands",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "7.97 kg",
+          "madeIn": "USA"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "87"
+      },
+      "fields": {
+        "title": "Dyson V11 Torque Drive Vacuum",
+        "price": 522.11,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product87.jpg"
+            }
+          }
+        },
+        "description": "Dyson V11 Torque Drive Vacuum is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 59,
+        "rating": 4.1,
+        "brand": "Yeti",
+        "details": {
+          "material": "Fabric",
+          "weight": "0.53 kg",
+          "madeIn": "USA"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "88"
+      },
+      "fields": {
+        "title": "Breville Barista Express Espresso Machine",
+        "price": 112.93,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product88.jpg"
+            }
+          }
+        },
+        "description": "Breville Barista Express Espresso Machine is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 60,
+        "rating": 4.4,
+        "brand": "Instant Brands",
+        "details": {
+          "material": "Plastic",
+          "weight": "3.02 kg",
+          "madeIn": "USA"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "89"
+      },
+      "fields": {
+        "title": "Philips Sonicare ProtectiveClean 6100",
+        "price": 385.24,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product89.jpg"
+            }
+          }
+        },
+        "description": "Philips Sonicare ProtectiveClean 6100 is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 128,
+        "rating": 3.9,
+        "brand": "Breville",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "7.41 kg",
+          "madeIn": "Vietnam"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "90"
+      },
+      "fields": {
+        "title": "Ooni Koda Pizza Oven",
+        "price": 321.44,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product90.jpg"
+            }
+          }
+        },
+        "description": "Ooni Koda Pizza Oven is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 182,
+        "rating": 4.9,
+        "brand": "Instant Brands",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "3.56 kg",
+          "madeIn": "USA"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "91"
+      },
+      "fields": {
+        "title": "Le Creuset Dutch Oven 5.5 qt",
+        "price": 821.73,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product91.jpg"
+            }
+          }
+        },
+        "description": "Le Creuset Dutch Oven 5.5 qt is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 116,
+        "rating": 4.3,
+        "brand": "Dyson",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "8.03 kg",
+          "madeIn": "China"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "92"
+      },
+      "fields": {
+        "title": "Smeg 4-Slice Toaster",
+        "price": 351.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product92.jpg"
+            }
+          }
+        },
+        "description": "Smeg 4-Slice Toaster is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 86,
+        "rating": 4.8,
+        "brand": "Dyson",
+        "details": {
+          "material": "Aluminum",
+          "weight": "7.43 kg",
+          "madeIn": "Germany"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "93"
+      },
+      "fields": {
+        "title": "Theragun PRO",
+        "price": 69.84,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product93.jpg"
+            }
+          }
+        },
+        "description": "Theragun PRO is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 23,
+        "rating": 4.2,
+        "brand": "Le Creuset",
+        "details": {
+          "material": "Ceramic",
+          "weight": "8.21 kg",
+          "madeIn": "Vietnam"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "94"
+      },
+      "fields": {
+        "title": "Tile Mate (2022)",
+        "price": 794.87,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product94.jpg"
+            }
+          }
+        },
+        "description": "Tile Mate (2022) is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 108,
+        "rating": 4.8,
+        "brand": "Le Creuset",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "9.7 kg",
+          "madeIn": "Vietnam"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "95"
+      },
+      "fields": {
+        "title": "Fiskars Pruning Shears",
+        "price": 670.87,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product95.jpg"
+            }
+          }
+        },
+        "description": "Fiskars Pruning Shears is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 142,
+        "rating": 4.1,
+        "brand": "Anova",
+        "details": {
+          "material": "Ceramic",
+          "weight": "5.95 kg",
+          "madeIn": "Japan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "96"
+      },
+      "fields": {
+        "title": "Casper Original Mattress",
+        "price": 34.81,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product96.jpg"
+            }
+          }
+        },
+        "description": "Casper Original Mattress is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 177,
+        "rating": 4.0,
+        "brand": "Yeti",
+        "details": {
+          "material": "Ceramic",
+          "weight": "7.18 kg",
+          "madeIn": "Germany"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "97"
+      },
+      "fields": {
+        "title": "Blue Light Blocking Glasses",
+        "price": 70.51,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product97.jpg"
+            }
+          }
+        },
+        "description": "Blue Light Blocking Glasses is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 7,
+        "rating": 3.7,
+        "brand": "Breville",
+        "details": {
+          "material": "Plastic",
+          "weight": "4.07 kg",
+          "madeIn": "Japan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "98"
+      },
+      "fields": {
+        "title": "Coleman Sundome 4-Person Tent",
+        "price": 70.42,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product98.jpg"
+            }
+          }
+        },
+        "description": "Coleman Sundome 4-Person Tent is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 40,
+        "rating": 4.7,
+        "brand": "Instant Brands",
+        "details": {
+          "material": "Stainless Steel",
+          "weight": "3.08 kg",
+          "madeIn": "Japan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "99"
+      },
+      "fields": {
+        "title": "S'well Stainless Steel Water Bottle",
+        "price": 339.43,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product99.jpg"
+            }
+          }
+        },
+        "description": "S'well Stainless Steel Water Bottle is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 173,
+        "rating": 4.4,
+        "brand": "Breville",
+        "details": {
+          "material": "Ceramic",
+          "weight": "0.93 kg",
+          "madeIn": "Japan"
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "100"
+      },
+      "fields": {
+        "title": "Anova Precision Cooker (Sous Vide)",
+        "price": 596.73,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "/images/product100.jpg"
+            }
+          }
+        },
+        "description": "Anova Precision Cooker (Sous Vide) is a popular household item known for its durability and user-friendly design.",
+        "category": "Miscellaneous",
+        "stock": 30,
+        "rating": 3.6,
+        "brand": "Le Creuset",
+        "details": {
+          "material": "Aluminum",
+          "weight": "2.17 kg",
+          "madeIn": "Japan"
+        }
+      }
+    }
+  ]
+}

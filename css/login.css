@@ -1,0 +1,73 @@
+/*
+ * Filename: login.css
+ * Authors: John Hershey, tanner ness
+ * Creation Date: 2025-10-27
+ * Last Edit Date: 2025-11-13
+ * Class: CMSC 421 Web Development
+ * Description: contains css information for login/signup page, mainly form design
+ */
+/*for parent object of the form*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f6f7f8;
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+form {
+  text-align: left;
+  width: 30%;
+  min-width: 150px;
+  display: inline-block;
+}
+input {
+  box-sizing: border-box;
+  min-width: 150px;
+  width: 100%;
+}
+#signup,
+#login,
+button {
+  margin-top: 18px;
+  background-color: #fcfcfc;
+  border-width: 2px;
+}
+#signupform,
+#accountdata {
+  display: none;
+}
+#loginform {
+  display: block;
+}
+/*hullo*/
+#wrapper {
+  background-color: white;
+  border: 5px solid #37475a;
+  border-radius: 5px;
+  margin: 30px 10% 0px 10%;
+  padding-top: 10px;
+  text-align: center;
+}
+
+#txt {
+  font-weight: bolder;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+#signupbutton {
+  padding: 2px 2px;
+}
+
+#foot {
+  margin-top: 10px;
+  background-color: #37475a;
+}
